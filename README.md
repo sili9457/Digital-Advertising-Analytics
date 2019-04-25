@@ -1,2 +1,2 @@
 # Digital-Advertising-Analytics
-Exercises from my Digital Advertising course using Python and statistics
+Exercises and Projects using Python and statistics
